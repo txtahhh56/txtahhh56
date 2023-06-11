@@ -20,3 +20,26 @@
 [![codewars](https://www.codewars.com/users/txtahhh56/badges/large)](https://www.codewars.com/users/txtahhh56) 
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=txtahhh56&theme=dark)](https://github.com/txtahhh56/leetcode-stats)
+
+<details>
+<p align="center">
+  <a href="https://github.com/txtahhh56">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=txtahhh56&theme=transparent" />
+  </a>
+  <a href="https://github.com/txtahhh56">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=txtahhh56&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/txtahhh56">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=txtahhh56&theme=transparent" />
+  </a>
+  <a href="https://github.com/txtahhh56">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=txtahhh56&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
+
+<p align="center">
+  <a href="https://github.com/txtahhh56">
+    <img src="https://komarev.com/ghpvc/?username=txtahhh56&color=blue&style=flat)" />
+  </a>
+</p>
