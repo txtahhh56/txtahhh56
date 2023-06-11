@@ -24,13 +24,13 @@
 <details>
 <p align="center">
   <a href="https://github.com/txtahhh56">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=txtahhh56&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=txtahhh56&theme=dracula" />
   </a>
   <a href="https://github.com/txtahhh56">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=txtahhh56&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=txtahhh56&hide_border=true&card_width=338&theme=dracula" />
   </a>
   <a href="https://github.com/txtahhh56">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=txtahhh56&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=txtahhh56&theme=dracula" />
   </a>
   
 </p>
