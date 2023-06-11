@@ -38,8 +38,4 @@
 </p>
 </details>
 
-<p align="center">
-  <a href="https://github.com/txtahhh56">
-    <img src="https://komarev.com/ghpvc/?username=txtahhh56&color=blue&style=flat)" />
-  </a>
-</p>
+
